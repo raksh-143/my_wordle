@@ -1,0 +1,17 @@
+*{
+    text-align: center;
+}
+h1{
+    font-size: 60px;
+}
+input{
+    font-size: 20px;
+    border-radius: 8%;
+}
+h1,input{
+    font-style: italic;
+    font-weight: bold;
+}
+table,tr,td{
+    text-align: center;
+}
